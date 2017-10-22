@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1508295682 source:c:\users\christopher\documents\jeucroix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Function.h"
+
+1508295112 c:\users\christopher\documents\jeucroix\function.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
